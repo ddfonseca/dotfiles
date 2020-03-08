@@ -11,6 +11,9 @@ export ZSH=/home/davidfonseca/.oh-my-zsh
 # ZSH_THEME="robbyrussell"
 ZSH_THEME="cloud"
 
+
+wal -i $HOME/Pictures/Wallpapers/nebula.jpg &
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
